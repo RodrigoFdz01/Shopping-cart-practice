@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "precio": 50,
+    "categoria": "Vacaciones",
+    "img": "https://picsum.photos/id/10/600"
+  },
+  {
+    "id": 2,
+    "precio": 150,
+    "categoria": "Compras",
+    "img": "https://picsum.photos/id/30/600"
+  },
+  {
+    "id": 3,
+    "precio": 200,
+    "categoria": "Computer",
+    "img": "https://picsum.photos/id/20/600"
+  }
+]
